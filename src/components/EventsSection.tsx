@@ -44,16 +44,16 @@ const EventsSection = () => {
     {
       title: "Haldi Ceremony",
       date: "August 13, 2024",
-      time: "10:00 AM",
-      location: "Bride's Residence, Hyderabad",
+      time: "9:00 AM",
+      location: "Groom's Residence, Jangareddygudem",
       description: "Join us for the traditional Haldi ceremony where turmeric paste is applied to the bride and groom for blessing and beautification.",
       imageSrc: "/haldi.png"
     },
     {
       title: "Wedding Ceremony",
       date: "August 15, 2024",
-      time: "9:00 AM - 2:00 PM",
-      location: "Shilpakala Vedika, Hyderabad",
+      time: "1:15 AM",
+      location: "Arya Vysya Wedding Hall, Akividu",
       description: "The auspicious wedding ceremony will be performed according to Telugu traditions with all rituals and customs.",
       imageSrc: "/marriage.png"
     },
@@ -61,7 +61,7 @@ const EventsSection = () => {
       title: "Reception Celebration",
       date: "August 16, 2024",
       time: "7:00 PM onwards",
-      location: "Novotel Hotel, HICC, Hyderabad",
+      location: "S.V.R Function Hall, Jangareddygudem",
       description: "Join us for an evening of celebration, feasting and blessings as we start our new journey together.",
       imageSrc: "/reception.png"
     }
