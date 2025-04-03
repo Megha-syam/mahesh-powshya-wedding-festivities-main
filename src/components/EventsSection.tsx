@@ -43,7 +43,7 @@ const EventsSection = () => {
   const events = [
     {
       title: "Haldi Ceremony",
-      date: "August 13, 2024",
+      date: "April 13th, 2025",
       time: "9:00 AM",
       location: "Groom's Residence, Jangareddygudem",
       description: "Join us for the traditional Haldi ceremony where turmeric paste is applied to the bride and groom for blessing and beautification.",
@@ -51,7 +51,7 @@ const EventsSection = () => {
     },
     {
       title: "Wedding Ceremony",
-      date: "August 15, 2024",
+      date: "April 16th, 2025",
       time: "1:15 AM",
       location: "Arya Vysya Wedding Hall, Akividu",
       description: "The auspicious wedding ceremony will be performed according to Telugu traditions with all rituals and customs.",
@@ -59,7 +59,7 @@ const EventsSection = () => {
     },
     {
       title: "Reception Celebration",
-      date: "August 16, 2024",
+      date: "April 17th, 2025",
       time: "7:00 PM onwards",
       location: "S.V.R Function Hall, Jangareddygudem",
       description: "Join us for an evening of celebration, feasting and blessings as we start our new journey together.",
