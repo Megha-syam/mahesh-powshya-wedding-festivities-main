@@ -43,7 +43,7 @@ const EventsSection = () => {
   const events = [
     {
       title: "Haldi Ceremony",
-      date: "April 13th, 2025",
+      date: "April 15th, 2025",
       time: "9:00 AM",
       location: "Groom's Residence, Jangareddygudem",
       description: "Join us for the traditional Haldi ceremony where turmeric paste is applied to the bride and groom for blessing and beautification.",
