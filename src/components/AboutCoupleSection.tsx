@@ -26,10 +26,10 @@ const AboutCoupleSection = () => {
             <CardContent className="p-6">
               <h3 className="text-2xl font-bold text-wedding-maroon mb-3">Mahesh</h3>
               <p className="text-gray-700 mb-4">
-                Mahesh is the eldest son of Mr. LakshmiNarayana Gupta and Mrs. SobhaRani. Born and raised in Putlagatlagudem, he completed his education in Electronics and Communication Engineering  and now works as a Software Engineer at a leading tech company. His calm demeanor, intelligence, and compassionate nature make him beloved by family and friends alike.
+              Mahesh is the eldest son of Mr. LakshmiNarayana Gupta and Mrs. Sobha Rani. He was born and brought up in Putlagatlagudem. After completing his education in Electronics and Communication Engineering, he is now working as a Technical Lead at a leading tech company.
               </p>
               <p className="text-gray-700">
-                He enjoys playing cricket, reading philosophy books, and has a passion for Telugu classical music. Mahesh's dedication to his family traditions while embracing modern values makes him a perfect blend of tradition and contemporary thinking.
+              Known for his calm nature, intelligence, and kindness, Mahesh is admired by family and friends. He enjoys playing cricket, reading philosophy, and has a passion for acting, dance, and Telugu classical music. With a perfect blend of traditional values and modern outlook, he loves spending quality time with his loved ones.
               </p>
             </CardContent>
           </Card>
@@ -46,7 +46,7 @@ const AboutCoupleSection = () => {
             <CardContent className="p-6">
               <h3 className="text-2xl font-bold text-wedding-maroon mb-3">Powshya</h3>
               <p className="text-gray-700 mb-4">
-                Powshya Sri lakshmi is the beloved daughter of Mr. Venkata Apparao and Mrs. Venkata Naga Prabharamba. Growing up in a traditional Telugu household, she has always valued her cultural roots. She holds Bachelor's degree in Computer Science and Engineering and works as a Software Engineer in a Leading tech Company.
+                Powshya Sri Lakshmi is the beloved daughter of Mr. Venkata Apparao and Mrs. Venkata Naga Prabharamba. Growing up in a traditional Telugu household, she has always valued her cultural roots. She holds Bachelor's degree in Computer Science and Engineering and works as a Software Engineer in a Leading tech Company.
               </p>
               <p className="text-gray-700">
                 Her vibrant personality, artistic talents in classical dance, and warm heart have always drawn people to her. Powshya loves painting, Kuchipudi dance, and experimenting with traditional Telugu cuisine with modern twists.
