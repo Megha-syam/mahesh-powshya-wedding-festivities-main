@@ -49,7 +49,7 @@ const AboutCoupleSection = () => {
                 Powshya Sri Lakshmi is the beloved daughter of Mr. Venkata Apparao and Mrs. Venkata Naga Prabharamba. Growing up in a traditional Telugu household, she has always valued her cultural roots. She holds Bachelor's degree in Computer Science and Engineering and works as a Software Engineer in a Leading tech Company.
               </p>
               <p className="text-gray-700">
-                Her vibrant personality, artistic talents in classical dance, and warm heart have always drawn people to her. Powshya loves painting, Kuchipudi dance, and experimenting with traditional Telugu cuisine with modern twists.
+              Her vibrant personality, artistic talent in dance, and warm heart naturally draw people to her. Powshya loves paper crafting, dancing, and experimenting with traditional Telugu cuisine with a modern twist.
               </p>
             </CardContent>
           </Card>

@@ -13,6 +13,8 @@ const Footer = () => {
             <span className="text-xs md:text-sm opacity-90">Celebrating Our Love Journey</span>
             <Heart className="h-4 w-4 text-wedding-gold fill-wedding-gold animate-pulse" />
           </div>
+
+          
           <div className="flex items-center justify-center gap-1 mb-6">
             <span className="text-xs md:text-sm opacity-90">#PoshPelli</span>
             <Heart className="h-4 w-4 text-wedding-gold fill-wedding-gold animate-pulse" />
