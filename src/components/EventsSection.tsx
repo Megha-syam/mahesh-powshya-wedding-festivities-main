@@ -43,16 +43,16 @@ const EventsSection = () => {
   const events = [
     {
       title: "Haldi Ceremony",
-      date: "April 15th, 2025",
+      date: "April 13th, 2025",
       time: "9:00 AM",
-      location: "Groom's Residence, Jangareddygudem",
+      location: "Groom's Residence, Putlagatlagudem",
       description: "Join us for the traditional Haldi ceremony where turmeric paste is applied to the bride and groom for blessing and beautification.",
       imageSrc: "/haldi.png"
     },
     {
       title: "Wedding Ceremony",
-      date: "April 16th, 2025",
-      time: "1:15 AM",
+      date: "April 17th, 2025",
+      time: "1:24 AM",
       location: "Arya Vysya Wedding Hall, Akividu",
       description: "The auspicious wedding ceremony will be performed according to Telugu traditions with all rituals and customs.",
       imageSrc: "/marriage.png"
