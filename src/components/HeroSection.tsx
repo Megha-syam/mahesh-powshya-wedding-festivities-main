@@ -19,10 +19,7 @@ const HeroSection = () => {
       <div className="absolute inset-0 bg-[url('/mandala.png')] bg-no-repeat bg-center opacity-10 z-0 animate-float"></div>
       
       <div className="relative z-10 max-w-4xl mx-auto animate-fade-in">
-        <div className="mb-4">
-          <p className="text-wedding-cream text-xl md:text-2xl font-medium">#PoshPelli</p>
-        </div>
-        
+       
         {/* Highlighted invitation text with improved background */}
         <h2 className="text-wedding-gold text-2xl md:text-3xl font-bold mb-6 p-2 bg-wedding-maroon/40 rounded-lg inline-block shadow-lg">
           Kambhampati's Wedding Invitation
@@ -31,6 +28,9 @@ const HeroSection = () => {
         <h1 className="font-parisienne text-5xl md:text-7xl lg:text-8xl text-wedding-cream mb-4 text-shadow">
           Mahesh <span className="text-wedding-gold">&</span> Powshya
         </h1>
+        <div className="mb-4">
+          <p className="text-wedding-cream text-xl md:text-2xl font-medium">#PoshPelli</p>
+        </div>
         
         <div className="h-0.5 w-24 bg-wedding-gold mx-auto my-6"></div>
         
