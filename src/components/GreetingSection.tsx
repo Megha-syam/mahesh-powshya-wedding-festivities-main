@@ -22,7 +22,7 @@ const GreetingSection = () => {
             Our journey of love began as a friendship and blossomed into a beautiful relationship. Now, as we prepare to embark on this sacred journey of marriage, we would be honored to have your presence and blessings on our special day.
           </p>
           
-          <p className="text-2xl font-parisienne text-wedding-gold mt-8">
+          <p className="text-3xl font-parisienne text-wedding-gold mt-8">
             "Two souls with but a single thought, two hearts that beat as one."
           </p>
         </div>
