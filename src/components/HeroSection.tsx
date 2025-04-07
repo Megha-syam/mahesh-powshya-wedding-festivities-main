@@ -36,7 +36,7 @@ const HeroSection = () => {
         
         <p className="text-xl md:text-2xl text-wedding-cream font-semibold mb-2">We are getting married</p>
         
-        <p className="text-2xl md:text-3xl text-wedding-gold font-bold mb-8">April 16, 2025</p>
+        <p className="text-2xl md:text-3xl text-wedding-gold font-bold mb-8">April 16th & 17th, 2025</p>
         
         <div className="flex flex-col md:flex-row justify-center gap-6 mt-8">
           <a 
