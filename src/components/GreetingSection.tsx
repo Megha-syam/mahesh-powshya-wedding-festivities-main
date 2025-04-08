@@ -15,11 +15,11 @@ const GreetingSection = () => {
         
         <div className="prose prose-lg mx-auto text-wedding-darkred">
           <p className="text-xl leading-relaxed mb-6">
-            With the blessings of our parents and elders, we joyfully invite you to share in our happiness as we unite in marriage according to Telugu traditions.
+          With the blessings of our parents and elders, we are delighted to invite you to join us in celebrating the beginning of our new journey together as we unite in marriage according to Telugu traditions.
           </p>
           
           <p className="text-xl leading-relaxed mb-6">
-            Our journey of love began as a friendship and blossomed into a beautiful relationship. Now, as we prepare to embark on this sacred journey of marriage, we would be honored to have your presence and blessings on our special day.
+          Brought together by the love and guidance of our families, we are excited to start this sacred chapter of life. As we step into this bond of togetherness, your presence and blessings on our special day would mean a lot to us.
           </p>
           
           <p className="text-3xl font-parisienne text-wedding-gold mt-8">
@@ -31,15 +31,19 @@ const GreetingSection = () => {
 
 <div className="prose prose-lg mx-auto text-wedding-darkred">
   <p className="text-xl leading-relaxed mb-6">
-    మా తల్లిదండ్రుల మరియు పెద్దల ఆశీర్వాదాలతో, తెలుగు సంప్రదాయ ప్రకారం మేము వివాహ బంధంలో ఏకమవుతున్న ఈ సంతోషకర సందర్భాన్ని మీతో పంచుకోవడానికి మిమ్మల్ని హృదయపూర్వకంగా ఆహ్వానిస్తున్నాం.
+  తల్లిదండ్రులు మరియు పెద్దల ఆశీర్వాదాలతో,
+తెలుగు సంప్రదాయాల మేరకు మేము వివాహ బంధంతో ఒక్కటవుతున్నాము.
+ఈ పవిత్ర క్షణాన్ని మీతో పంచుకోవాలని మనస్ఫూర్తిగా కోరుకుంటున్నాము.
+మీ సాన్నిధ్యం మాకు వెలకట్టలేని ఆనందాన్ని కలిగిస్తుంది.
   </p>
   
   <p className="text-xl leading-relaxed mb-6">
-    మా ప్రేమ ప్రయాణం స్నేహంగా ప్రారంభమై, అందమైన సంబంధంగా వికసించింది. ఇప్పుడు, ఈ పవిత్రమైన వివాహ జీవిత ప్రయాణాన్ని ప్రారంభించేందుకు సిద్ధమవుతున్నప్పుడు, మీ సాన్నిహిత్యం మరియు ఆశీర్వాదాలు మాకు ఎంతో ప్రాముఖ్యమైనవి.
+  మీ ఆశీర్వాదాలు మా జీవితానికి శుభారంభం కావాలని ఆకాంక్షిస్తున్నాము.
+  ఈ శుభసమయాన్ని మీతో కలిసి జరుపుకోవాలని ఎదురుచూస్తున్నాము.
   </p>
   
   <p className="text-2xl font-parisienne text-wedding-gold mt-8">
-    "ఒకే ఆలోచనతో రెండు ప్రాణాలు, ఒకే తాకిడితో రెండు హృదయాలు."
+    "ఒకే ఆలోచనతో రెండు ప్రాణాలు, ఒకే భావంతో స్పందిస్తున్న రెండు హృదయాలు."
   </p>
 </div>
 
