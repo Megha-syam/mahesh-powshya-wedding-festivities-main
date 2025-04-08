@@ -23,7 +23,7 @@ const GreetingSection = () => {
           </p>
           
           <p className="text-3xl font-parisienne text-wedding-gold mt-8">
-            "<b>Two souls with but a single thought, two hearts that beat as one.</b>"
+            "<b>Two souls but with a single thought, two hearts that beat as one.</b>"
           </p>
         </div>
 
