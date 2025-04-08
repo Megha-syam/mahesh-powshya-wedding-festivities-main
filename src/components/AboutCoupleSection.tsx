@@ -29,7 +29,7 @@ const AboutCoupleSection = () => {
               Mahesh is the eldest son of Mr. LakshmiNarayana Gupta and Mrs. Sobha Rani. He was born and brought up in Putlagatlagudem. After completing his education in Electronics and Communication Engineering, he is now working as a Technical Lead at a leading tech company.
               </p>
               <p className="text-gray-700">
-              Known for his calm nature, intelligence, and kindness, Mahesh is admired by family and friends. He enjoys playing cricket, reading philosophy, and has a passion for acting, dance, and Telugu classical music. With a perfect blend of traditional values and modern outlook, he loves spending quality time with his loved ones.
+              Known for his calm nature, intelligence, and kindness, Mahesh is admired by family and friends. He enjoys playing cricket, reading philosophy, and has a passion for acting, dance, and music. With a perfect blend of traditional values and modern outlook, he loves spending quality time with his loved ones.
               </p>
             </CardContent>
           </Card>
