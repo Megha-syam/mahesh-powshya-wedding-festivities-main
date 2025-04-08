@@ -51,8 +51,8 @@ const EventsSection = () => {
     },
     {
       title: "Wedding Ceremony",
-      date: "April 17th, 2025",
-      time: "1:24 AM",
+      date: "On the night of April 16th, 2025 (Wednesday)",
+      time: "At 1:24 AM (early hours of April 17th)",
       location: "Arya Vysya Wedding Hall, Akividu",
       description: "The auspicious wedding ceremony will be performed according to Telugu traditions with all rituals and customs.",
       imageSrc: "/marriage.png"
